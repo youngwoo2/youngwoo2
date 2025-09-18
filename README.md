@@ -2,10 +2,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=이영우%20(Youngwoo%20Lee)&fontAlign=50&fontSize=50&fontColor=ffffff)
 
 ## 👋 About Me
-- 🔭 Backend Developer (Java Spring Boot, MyBatis/JPA)
-- 🌱 Currently learning **Docker**, **AWS EC2**, **Redis**, **MQTT**
-- ⚡ Interested in **AIoT**, **DevOps**, **System Design**
-- 📫 Reach me on **[GitHub Issues](https://github.com/youngwoo2/youngwoo2/issues)**
+
+<h2 align="center">👋 안녕하세요! 👋</h2> 
+<p align="center">
+  <br/>
+  백엔드 개발자를 준비 중인 <strong>이영우</strong>입니다 😊
+  <br/><br/>
+  끊임없이 고민하고 질문하며 스스로 답을 찾아가는 <strong>개발자</strong>입니다 🔍
+  <br/><br/>
+  새로운 기술을 배우는 데 두려움이 없고,<br/>
+  여러 사람과 <strong>함께 협업</strong>하는 것을 좋아합니다 🧑‍🤝‍🧑
+</p>
+<br/>
+
+
 
 ---
 
