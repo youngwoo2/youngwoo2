@@ -1,8 +1,6 @@
 <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=이영우%20(Youngwoo%20Lee)&fontAlign=50&fontSize=50&fontColor=ffffff)
 
-## 👋 About Me
-
 <h2 align="center">👋 안녕하세요! 👋</h2> 
 <p align="center">
   <br/>
