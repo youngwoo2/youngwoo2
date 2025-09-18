@@ -29,7 +29,11 @@
 
 ## 🏆 Problem Solving
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dodoyou)](https://solved.ac/dodoyou)
+<p align="center">
+  <a href="https://solved.ac/dodoyou">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dodoyou" alt="Solved.ac Profile"/>
+  </a>
+</p>
 
 ---
 
